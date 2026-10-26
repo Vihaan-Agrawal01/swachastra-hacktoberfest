@@ -1,20 +1,4 @@
-# SWACHASTRA — Vercel-ready prototype
-
-A static, browser-based prototype for community cleanliness actions, points, leaderboards, rewards, learning content, and moderator review.
-
-## Deploy to Vercel (no coding setup required)
-
-1. Download and extract this project ZIP.
-2. Create a new GitHub repository and upload the files from this folder to the repository root.
-3. In Vercel, choose **Add New → Project** and import that GitHub repository.
-4. Use these settings:
-   - Framework Preset: **Other**
-   - Build Command: leave blank, or use `npm run build`
-   - Output Directory: `.`
-   - Install Command: leave blank
-5. Click **Deploy**.
-
-Alternatively, install the Vercel CLI and run `vercel` from this folder.
+# SWACHASTRA
 
 ## Files
 
